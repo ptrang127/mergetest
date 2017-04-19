@@ -3,9 +3,9 @@ using namespace std;
 
 int main(){
 
-	//prints hello world
-	cout << "Hello, world" << endl;
-	cout << "New edit" << endl;	
+	//prints helloworld and the new edit
+	cout << "hello, world" << endl;
+	cout << "new edit" << endl;	
 	return 0;
 
 }
