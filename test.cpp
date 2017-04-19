@@ -3,9 +3,9 @@ using namespace std;
 
 int main(){
 
-	//prints hello world to test merge conflicts
+	//prints don't delete my comments
 	cout << "Hello, world!" << endl;
-	cout << "New edit!" << endl;
+	cout << "new edit!" << endl;
 	return 0;
 
 }
