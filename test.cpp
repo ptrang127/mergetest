@@ -3,9 +3,9 @@ using namespace std;
 
 int main(){
 
-	//prints don't delete my comments
-	cout << "Hello, world!" << endl;
-	cout << "new edit!" << endl;
+	//prints don't  my comments
+	cout << "Hel, world!" << endl;
+	cout << "new eit!" << endl;
 	return 0;
 
 }
